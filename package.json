@@ -1,5 +1,5 @@
 {
-  "name": "@alejosdev/session-provider",
+  "name": "@alejosdev/cache-provider",
   "version": "1.0.0",
   "description": "",
   "type": "module",
